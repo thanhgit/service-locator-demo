@@ -3,6 +3,12 @@
 ```
 This is a demo project about service locator pattern
 ```
+
+### Quickly
+```text
+$ npm start
+```
+
 ### Overview Architecture
 ![](./service-locator.png)
 
